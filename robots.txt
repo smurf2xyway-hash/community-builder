@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+# Après publication, remplace example.com par ton vrai domaine et ajoute un sitemap si tu en crées un.
